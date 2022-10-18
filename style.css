@@ -25,6 +25,7 @@ section{
     width: 90%;
     height: 90%;
     align-items: center;
+    border: 5px solid white;
  }
  .ancor-btn{
     color: rgb(7, 0, 0);
