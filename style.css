@@ -1,9 +1,8 @@
 body {
     font-family: 'PT Serif', serif;
-    color: rgb(255, 253, 253);
-    background-image:url("img/rm422-076-x.jpg");
-    
-}
+    color: rgb(0, 0, 0);
+    margin: 0;
+}  
 
 
 h1 {
@@ -18,10 +17,14 @@ h1 {
 }
 section{
     display: flex;
-    
-    
-    
+    background-image:url("img/top-banner.png");
+    background-repeat: no-repeat;
+   
 }
+    
+    
+    
+
 .half-width{
     width: 50%;
     padding: 25px;
@@ -33,9 +36,8 @@ section{
 }
  .half-width img{
     size: 30%;
-    border:5px solid white ;
+    border:5px solid rgb(0, 0, 0) ;
     width: 90%;
-    height: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
