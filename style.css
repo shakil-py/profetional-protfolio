@@ -1,8 +1,35 @@
 body {
     font-family: 'PT Serif', serif;
+    color: white;
+    background-image:url("img/compute-ea4c57a4.png")
+    
 }
 
 h1 {
     font-size: 50px;
     
 }
+.span-text{
+    color: rgb(199, 73, 5);
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding: 25px;
+    align-items: center;
+}
+ .half-width img{
+    width: 90%;
+    height: 90%;
+    align-items: center;
+ }
+ .ancor-btn{
+    color: rgb(7, 0, 0);
+    text-decoration: none;
+    background-image: linear-gradient(green,rgb(252, 198, 5));
+    padding: 5px 20px;
+    border-radius: 10px;
+ }
