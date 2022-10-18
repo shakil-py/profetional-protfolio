@@ -16,7 +16,7 @@ h1 {
 }
 .flex-section {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 
 }
 .head-section {
@@ -35,7 +35,10 @@ h1 {
 }
 .half-width {
     width: 50%;
-    padding: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
     align-items: center;
 }
 .info {
@@ -50,7 +53,10 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
+    border-radius: 15px;
+}
+.img-or{
+    margin-top: 45px;
 }
 .ancor-btn {
     color: rgb(255, 255, 255);
