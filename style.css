@@ -16,17 +16,21 @@ h1 {
     size: 100px;
     border-bottom: 2px solid red;
 }
-section{
+.head-section{
     display: flex;
     background-image:url("img/top-banner.png");
     background-repeat: no-repeat;
     margin-bottom: 150px;
    
 }
-    
-    
-    
-
+.dream-section{
+    display: flex;
+    background-image:url("img/dream-bg.png");
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+    background-position: right;
+    background-position-y: 240px;
+}
 .half-width{
     width: 50%;
     padding: 25px;
